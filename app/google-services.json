@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177564708080",
+    "project_id": "mangr-ca60f",
+    "storage_bucket": "mangr-ca60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177564708080:android:63ebf1d788803c47d96635",
+        "android_client_info": {
+          "package_name": "com.beecoder.mangr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177564708080-e37fcmt3svtedgfileme8k4emoo3apta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPO9HIFk4uPow36yAR-3U6IVbaHhRLEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177564708080-e37fcmt3svtedgfileme8k4emoo3apta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
